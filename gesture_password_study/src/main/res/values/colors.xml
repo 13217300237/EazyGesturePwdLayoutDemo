@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="colorNotChecked">#EBEBEB</color>
+    <color name="colorChecked">#F8A916</color>
+    <color name="colorCheckedErr">#FF3232</color>
+
+    <color name="colorRoundBorder">#FEEDD0</color>
+    <color name="colorRoundBorderErr">#FFE1E1</color>
+    <color name="color_v">#999999</color>
+
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GestureLockCircleView">
+        <attr name="gestureCircleFillColor" format="color" /><!-- 圆的填充颜色 -->
+        <attr name="gestureCircleRadius" format="dimension" /><!-- 圆的半径 -->
+        <attr name="hasRoundBorder" format="boolean" /><!-- 是否有圆形外框 -->
+        <attr name="roundBorderColor" format="color" /><!-- 圆形外框的颜色 -->
+        <attr name="roundBorderWidth" format="dimension" /><!-- 圆形外框的宽度 -->
+    </declare-styleable>
+
+    <declare-styleable name="EasyGestureLockLayout">
+        <attr name="ifChildHasBorder" format="boolean" /><!-- 子元素圆是否有圆形外框 -->
+        <attr name="count" format="integer" /><!--  每行或者列的元素个数 -->
+        <attr name="ifAllowInteract" format="boolean" /><!-- 是否允许时间交互，主要是手势解锁 -->
+    </declare-styleable>
+</resources>
